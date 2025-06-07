@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Phan Anh Bao
 
 ![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80)
 
@@ -42,7 +42,7 @@ Specialized in **.NET, ReactJS, NextJS, NestJS, NodeJS, SQL, MySQL, MongoDB, Bla
 
 ## 📫 Contact Me
 
-- Email: your.email@example.com  
+- Email: anhbaoit.work2001@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/phan-anh-b%E1%BA%A3o-351873241/))  
 - Facebook: [facebook.com/yourusername](https://www.facebook.com/BaoPhanAnh.Dev)
 
