@@ -43,8 +43,8 @@ Specialized in **.NET, ReactJS, NextJS, NestJS, NodeJS, SQL, MySQL, MongoDB, Bla
 ## 📫 Contact Me
 
 - Email: anhbaoit.work2001@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/phan-anh-b%E1%BA%A3o-351873241/))  
-- Facebook: [facebook.com/yourusername](https://www.facebook.com/BaoPhanAnh.Dev)
+- LinkedIn: [linkedin.com/in/phan-anh-bao](https://www.linkedin.com/in/phan-anh-bao)  
+- Facebook: [facebook.com/BaoPhanAnh.Dev](https://www.facebook.com/BaoPhanAnh.Dev)
 
 ---
 
