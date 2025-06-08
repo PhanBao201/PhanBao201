@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Phan Anh Bao
 
-![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80)
+![Banner](https://github.com/PhanBao201/sharing-host-files/blob/main/z6683471348575_c40d606a0c1c6aa2cbdbede46e445315.jpg?raw=true)
 
 ## 👨‍💻 About Me
 I'm a passionate **Fullstack Developer** with **2+ years experience** building modern web apps.  
